@@ -1,0 +1,1 @@
+cd lora && ./go.sh
